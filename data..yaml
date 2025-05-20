@@ -1,0 +1,5 @@
+train: /content/drive/My Drive/Project_Yolo/Dataset/train/images
+val: /content/drive/My Drive/Project_Yolo/Dataset/valid/images
+
+nc: 2  # عدد الفئات
+names: ['emergency_vehicle', 'non_emergency_vehicle']
