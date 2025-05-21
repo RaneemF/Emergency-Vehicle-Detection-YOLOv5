@@ -13,10 +13,10 @@ This repository contains the implementation for a real-time emergency vehicle de
 - Epochs: 50
 - Batch size: 16
 - Optimizer: SGD
-
-## 🖼️ Dataset
-The dataset consists of 1000 manually captured and annotated images simulating real-world traffic conditions using toy vehicles in a miniature environment. It includes:
-- Emergency vehicles: Ambulance, fire truck, police car
+  
+🖼️ Dataset  
+The dataset contains 1000 manually captured and annotated images simulating real-world traffic conditions using toy vehicles. It includes:
+- Emergency vehicles: Ambulance, fire truck, police car  
 - Non-emergency vehicles
 
 ## 🚀 Edge Deployment (Future Work)
