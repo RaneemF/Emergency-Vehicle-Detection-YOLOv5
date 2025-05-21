@@ -7,22 +7,22 @@ This repository contains the implementation for a real-time emergency vehicle de
 - `train.py`: Training script (YOLOv5 training logic)
 - `Datasets/`: Images from the dataset
 
-## ⚙️ Model Details
+##  Model Details
 - Model used: YOLOv5s
 - Image size: 416 × 416
 - Epochs: 50
 - Batch size: 16
 - Optimizer: SGD
   
-🖼️ Dataset  
+## Dataset  
 The dataset contains 1000 manually captured and annotated images simulating real-world traffic conditions using toy vehicles. It includes:
 - Emergency vehicles: Ambulance, fire truck, police car  
 - Non-emergency vehicles
 
-## 🚀 Edge Deployment (Future Work)
+## Edge Deployment (Future Work)
 The system is designed for deployment on Raspberry Pi 4 using a Pi Camera module to detect emergency vehicles and communicate with smart traffic lights for real-time prioritization.
 
-## 👩‍💻 Authors
+## Authors
 - Raneem Alrumaihi  
 - Maha Alharbi
 
