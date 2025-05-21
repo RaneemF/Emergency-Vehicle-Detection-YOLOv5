@@ -3,10 +3,9 @@
 This repository contains the implementation for a real-time emergency vehicle detection system developed as part of a university research project. The model is based on YOLOv5s and is optimized for edge deployment on devices like Raspberry Pi 4.
 
 ## 📂 Project Structure
-- `data.yaml`: Dataset configuration file
+- `data..yaml`: Dataset configuration file
 - `train.py`: Training script (YOLOv5 training logic)
-- `runs/`: Output directory with trained weights and results
-- `images/`: Sample images from dataset
+- `Datasets/`: Sample images from dataset
 
 ## ⚙️ Model Details
 - Model used: YOLOv5s
