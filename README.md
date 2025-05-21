@@ -24,4 +24,7 @@ The system is designed for deployment on Raspberry Pi 4 using a Pi Camera module
 
 ## 👩‍💻 Authors
 - Raneem Alrumaihi  
-- Maha Alharbi   
+- Maha Alharbi
+
+For questions or collaboration, please contact the authors via email.
+iRaneem_F@outlook.sa
