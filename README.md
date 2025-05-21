@@ -5,7 +5,7 @@ This repository contains the implementation for a real-time emergency vehicle de
 ## 📂 Project Structure
 - `data..yaml`: Dataset configuration file
 - `train.py`: Training script (YOLOv5 training logic)
-- `Datasets/`: Sample images from dataset
+- `Datasets/`: Images from the dataset
 
 ## ⚙️ Model Details
 - Model used: YOLOv5s
